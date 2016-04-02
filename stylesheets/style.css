@@ -1,0 +1,19 @@
+body {
+	background-color: #ffffff;
+}
+
+table {
+	margin: auto;
+	
+}
+
+.bot {
+	text-align: center;
+}
+
+td {
+	height: 30px;
+	width: 30px;
+	background-color: #808080;
+	border: 1px solid black;
+}
